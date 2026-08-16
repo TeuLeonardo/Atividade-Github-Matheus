@@ -1,6 +1,6 @@
 def calcular_desconto(preco, percentual):
     desconto = preco * percentual / 100
-    preco_final = preco - descont
+    preco_final = preco - desconto
     return preco_final
  
 produto = 150.00
